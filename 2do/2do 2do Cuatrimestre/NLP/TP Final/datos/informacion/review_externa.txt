@@ -1,0 +1,109 @@
+Título:Reseña: Tiny TownsEres el alcalde de una pequeña ciudad en el bosque, donde pacificas criaturas han creado una civilización escondida de los depredadores. En esta diminuta tierra los recursos son escasos, así que tomas lo que puedes y nunca dices no a los materiales de construcción. Planea con inteligencia para construir una ciudad prosperar y no permitas que se llene de recursos inútiles. ¡Quien construye la ciudad más prospera será el ganador!
+Así se nos presenta Tiny Towns, un diseño de Peter McPherson, siendo este su primer título publicado. El juego fue publicado en 2019 por Alderac Entertainment Group en una versión en inglés. De las ilustraciones se encarga Matt Paquette (Mystic Vale, Custom Heroes, Ecos: First Continent).
+En nuestro país se encuentra publicado en español por Arrakis Games (existe dependencia del idioma en las cartas, además del reglamento). Permite partidas de 1 a 6 jugadores, con una edad mínima sugerida de 14 años y una duración aproximada de entre 45 minutos. El precio de venta al público es de 39,95€. Para esta reseña se ha utilizado una copia de la versión en español de Arrakis Games.
+Importante: si ya conoces el juego y/o sólo te interesa mi opinión sobre el mismo, puedes pasar directamente al apartado de Opinión. Los apartados Contenido y Mecánica están destinados especialmente a aquellos que no conocen el juego y prefieren hacerse una idea general de cómo funciona.
+Ir a la Opinión Personal
+
+Sección: Contenido
+Dentro de una caja de cartón de dos piezas (tapa y fondo), de dimensiones 29,7×29,7×7,2 cm. (caja cuadrada estándar tipo Ticket to Ride), nos encontramos con los siguientes elementos:
+6 Tableros de Jugador (de cartón)
+40 Cartas Grandes (70×120 mm.):
+25 Cartas de Edificio
+15 Cartas de Monumento
+
+25 Cartas de Edificio
+15 Cartas de Monumento
+15 Cartas de Recurso (63,5×88 mm.)
+126 Edificios (de madera)
+Martillo de Maestro Constructor (de madera)
+6 Monumentos (de madera)
+90 Cubos de Recursos (de madera)
+Bloc de Puntuación (de papel)
+Reglamento
+
+Sección: Mecánica
+Tiny Towns es un diseño con mecánica principal de construcción de patrones en el que cada jugador debe intentar conformar la ciudad más valiosa según una serie de edificios. Cada edificio se construye conformando un patrón de recursos sobre un tablero cuadriculado. En cada turno, el jugador activo nombra un recurso, y todos los jugadores deben colocarlo en una casilla libre de su tablero. Cuando un jugador conforma el patrón de algún edificio, puede construirlo, retirando todos los cubos, colocando el edificio en una de las casillas que estos ocupaban. La participación de un jugador en la partida finaliza cuando se queda sin espacios libres en su cuadricula, procediéndose al recuento final cuando todos han acabado. A los puntos proporcionados por los edificios habrá que restar un punto por cada casilla con un recurso.
+
+Subsección: Conceptos Básicos
+Comencemos por el Tablero. Cada jugador dispondrá de una cuadricula de cuatro filas y cuatro columnas en la que desarrollar su ciudad. Por norma general, en cada casilla solo podrá colocarse un elemento.
+Estos elementos podrán ser de dos tipos. Por un lado, los Recursos, representados con cubos de cinco colores. En cada turno, el jugador activo escogerá uno de los cinco tipos y todos los jugadores tendrán que colocar un cubo de dicho tipo en una casilla libre de su tablero.
+Por otro lado, tenemos los Edificios, representados con siete tipos distintos de piezas. A la hora de construir un edificio, será necesario conformar un patrón de recursos para sustituir todos ellos por la pieza del edificio correspondiente, que deberá ocupar una de las casillas en las que se encontraban los recursos retirados.
+Los patrones que permiten construir los edificios vienen determinados por las Cartas de Edificio. Hay varias cartas para cada tipo, y en cada partida se formará un conjunto distinto tomando una carta de cada tipo (con la excepción de las cabañas, que siempre estará presente). Los patrones indicados en la carta pueden ser rotados y reflejados sobre el tablero. En cada carta, además, se indica el efecto del edificio y los posibles puntos de victoria que proporcionan. En la esquina superior derecha aparece el símbolo identificativo del tipo de edificio (de cara a efectos con otros edificios).
+Por último, cada jugador dispondrá de una Carta de Monumento que escoge al comienzo de la partida. Este monumento proporciona un beneficio exclusivo, así como un patrón específico para poder se construido.
+Con esto tenemos suficiente.
+
+Subsección: Preparación de la Partida
+Se mezclan las cartas de edificio separadas por tipo (excepto la cabaña, que solo hay una carta). Tras esto, se revela una carta de cada tipo (7 cartas en total) y se devuelve el resto a la caja.
+Se forma una reserva general con los recursos y los edificios.
+Se mezcla el mazo de cartas de edificio y se entregan 2 a cada jugador. De estas, cada jugador se queda con una y descarta la otra. El resto del mazo y las cartas descartadas se devuelven a la caja.
+Cada jugador recibe un tablero personal y una pieza de monumento.
+Se escoge aleatoriamente al jugador inicial y se le entrega el marcador de maestro constructor.
+¡Ya podemos comenzar!
+Partida Preparada
+
+Subsección: Desarrollo de la Partida
+Una partida de Tiny Towns se desarrolla a lo largo de un número indeterminado de turnos en los que un jugador será el maestro constructor (comenzando por el jugador inicial y continuando en el sentido de las agujas del reloj).
+En cada turno, el maestro constructor debe nombrar uno de los cinco recursos disponibles (trigo, ladrillo, piedra, cristal o madera). Cada jugador, incluido el maestro constructor, tomará un cubo de dicho tipo y lo colocará en una casilla libre de su tablero.
+Tras esto, cualquier jugador que en su tablero disponga de patrones coincidentes con algún tipo de edificio podrá construir. Para ello, retirará todos los cubos que conforman el patrón y colocarán el edificio en una de las casillas que ocupaban los recursos recién retirados.
+Tras esto, el marcador de maestro constructor pasa al jugador de la izquierda.
+Si un jugador se queda sin espacio en su ciudad y no puede construir, finalizará su participación en la partida, a la espera de que el resto de jugadores haya lo propio.
+
+Subsección: Fin de la Partida
+La partida finaliza una vez que todos los jugadores han completado su ciudad. Se procede al recuento final, evaluando cada carta de edificio. A los puntos acumulados habrá que restar un punto por cada cubo de recurso presente en el tablero del jugador.
+El jugador con más puntos de victoria será el vencedor. En caso de empate, se aplican los siguientes criterios:
+El jugador que antes finalizase su actuación en la partida.
+El jugador con menos casillas libres en su tablero.
+El jugador con más cabañas.
+Si la igualdad sigue sin romperse, los jugadores comparten la victoria.
+
+Subsección: Variantes
+Regla de la Caverna: se permite a los jugadores no colocar hasta 2 recursos nombrados por sus contrincantes. Estos recursos se dejan a un lado (para llevar la cuenta de cuantos se han rechazado) y no penalizan al final de la partida.
+Modo Ayuntamiento: se utiliza el mazo de cartas. Se barajan y se descartan sin revelar 5 de ellas. En cada ronda, se revelan 2 cartas del mazo que indican los 2 recursos que cada jugador debe colocar. Tras esto, cada jugador podrá escoger 1 recurso a su elección para colocarlo en su tablero (no se condiciona al resto de jugadores). Si el mazo de recursos se agota, se baraja la pila de descarte y se vuelve a conformar, de nuevo descartando las 5 primeras cartas sin revelarlas.
+Cartas Modo Ayuntamiento
+Modo en Solitario: antes de preparar el juego, se retiran del mazo ciertas cartas. Se usa el mazo de alcalde. En cada turno, se revelan las tres siguientes cartas de recursos y el jugador escoge una de ellas para colocar el recurso correspondiente en su tablero. La carta escogida se coloca bocabajo en el fondo del mazo y se revela una nueva para ocupar el espacio de la anterior. El final de la partida es el habitual. El objetivo es intentar conseguir la máxima puntuación posible. Se tiene la siguiente tabla:
+9 Puntos o Menos: Aspirante a Arquitecto.
+De 10 a 17 Puntos: Aprendiz de Constructor.
+De 18 a 24 Puntos: Carpintero.
+De 25 a 31 Puntos: Ingeniero.
+De 32 a 37 Puntos: Planificador.
+38 o más Puntos: Maestro Arquitecto.
+
+9 Puntos o Menos: Aspirante a Arquitecto.
+De 10 a 17 Puntos: Aprendiz de Constructor.
+De 18 a 24 Puntos: Carpintero.
+De 25 a 31 Puntos: Ingeniero.
+De 32 a 37 Puntos: Planificador.
+38 o más Puntos: Maestro Arquitecto.
+
+Sección: Opinión Personal
+Ya lo he comentado en muchísimas reseñas. Pero, amén de ser pesado, aquí vamos una vez más. El mercado de los juegos de peso medio tendente a ligero es una jungla. Es el nicho donde más títulos se publican y, a su vez, donde realmente hay poco margen de maniobra. Es difícil que alguien de con la tecla de algo que no se ha utilizado nunca o encontrar un enfoque original a mecánicas ya vistas teniendo como gran restricción el adaptarse al gran público, ese al que no lo puedes aturullar a base de reglas y conceptos.
+Por eso es relativamente habitual ver como desfilan juegos que se parecen mucho entre sí, variando algún detallito para diferenciarse lo suficiente, aunque lo habitual es que se acabe retornando a esos juegos que ya han conseguido posicionarse en nuestra ludoteca. Afortunadamente, la lucha continua, y de vez en cuando, aparece algún título que si consigue abrirse hueco. ¿Será ese el caso de Tiny Towns? Vamos a comprobarlo, no sin antes agradecer a los chicos de Arrakis Games la cesión de la copia que posibilita esta tochorreseña.
+Nos hemos convertido en alcaldes de una pequeña ciudad en la que las criaturas viven en paz, con el único objetivo de prosperar y llevar a su urbe un paso más allá para envidia de los municipios cercanos. Dispondremos de los planos de diversos tipos de edificios que podremos erigir para conseguirlo, aunque no todo dependerá de nuestras decisiones, sino que nos veremos influenciado por los deseos de los rivales.
+Detalle Cartas
+La mecánica básica del juego será una construcción de patrones sobre una cuadricula de cuatro filas y cuatro columnas. En cada turno, el jugador activo (llamado maestro constructor) escogerá uno de los cinco tipos de recursos disponibles en el juego, a saber, madera, piedra, ladrillo, cristal y trigo, representados mediante cubos de colores. La gracia está en que no solo el jugador activo colocará un cubo del tipo escogido, sino que también tendrán que hacerlo el resto de jugadores. Tras esto, el siguiente jugador en el sentido de las agujas del reloj se convierte en el nuevo maestro constructor, teniendo el privilegio de escoger qué recurso toca colocar en este turno.
+Al final de cada turno, independientemente de quién sea el maestro constructor, los jugadores pueden convertir conjuntos de recursos en edificios si estos conforman el patrón indicado en la carta correspondiente coincide (pudiendo rotarse y/o reflejarse), retirando todos los cubos que conforman el patrón y colocando una pieza representativa del tipo de edificio en una de las casillas que ocupaban los recursos. Estos edificios muestran efectos diversos. Algunos proporcionan puntos de victoria siguiendo algún criterio, otros permiten activar otros edificios, y otros activan algún efecto durante la partida.
+Así se suceden los turnos hasta que un jugador queda bloqueado al tener ocupados todos los espacios de su cuadricula al no poder construir ningún edificio que le permita liberar huecos. Este jugador dejará de participar y esperará a que el resto haga lo propio, momento en el que se procederá al recuento final en función de cómo haya quedado construida cada ciudad, obteniendo puntos por los edificios y perdiéndolos por las casillas en las que han quedado recursos sin utilizar. ¡No tiene más!
+Tiny Towns entra en ese enorme grupo de juegos de corte familiar con mecánica de construcción de patrones como mecánica principal. Una larga lista que cada año va aumentando, y que, a día de hoy, podríamos situar en la cúspide a Azul (aquí su tochorreseña), aunque cabría mencionar a los Reef (aquí su tochorreseña), Dragon Castle (aquí su tochorreseña) u Overbooked (aquí su tochorreseña). Todos juegos más o menos con un mismo corte consistentes en ir desarrollando un tablero principal en el que tendremos que conformar patrones más o menos complejos.
+En estos juegos suele aparecer como segunda mecánica principal el draft, añadiendo un pequeño punto de interacción al asunto (si alguien escoge algo, ese algo ya no está disponible para los demás). Sin embargo, y como gran elemento diferenciador, Tiny Towns no recurre a un suministro finito donde escoger, sino que abre el abanico y deja a los jugadores elegir entre una serie de opciones la que le parece más interesante.
+Detalle Ciudad
+Pero, y ahí es donde está la gracia, esta decisión afectará a todos, dando pie a un juego psicológico muy interesante gracias a la tercera pata del banco, los edificios y sus cartas. Así, cada vez que un determinado jugador escoja un recurso, miraremos rápidamente el conjunto de siete cartas con las que se ha configurado la partida y podremos intentar deducir a por qué edificio está yendo un determinado jugador.
+Por un lado, para no regalarle progresos al escoger en nuestro turno recursos que requiera el patrón que está siguiendo. Y, obviamente, por otro, para intentar aprovecharnos de esos recursos que el rival va a escoger para poder completar el edificio que tiene en mente, ya sea para evitar un bloqueo al tener que colocar un recurso inesperado, o para utilizarlo en el edificio que estemos desarrollando nosotros.
+Es un concepto sutil, pero muy potente, ya que permite a los jugadores abordar el diseño con distinto grado de profundidad. Los jugadores ocasionales seguramente no presten atención a estos detalles y se centrarán en su tablero, lidiando como puedan con lo que les va llegando (en más de una ocasión les vendrá bien y lo celebrarán). Pero, como he dicho, podemos estar con mil ojos intentando prever la cadena de recursos que nos va a llegar para evitar callejones sin salida y sacar el máximo partido posible.
+Utilizaré como ejemplo al gran Race for the Galaxy (aquí su tochorreseña), probablemente el mejor juego de desarrollo de cartas que tiene como concepto diferencial la selección de acciones que da pie a este mismo juego psicológico. Yo quiero hacer varias acciones, pero solo puedo escoger una. Tengo que intentar prever la que van a escoger mis rivales para no «perder» mi turno y poder activar aquella que ellos no vayan a seleccionar. Es la misma idea, aunque, obviamente, con mucha menos parafernalia.
+Detalle Carta
+Es conveniente mencionar otro gran referente como es Kingdom Builder (aquí su tochorreseña). De nuevo, no porque la mecánica principal tenga mucho en común con el juego (aunque en ambos nos dedicaremos a colocar piezas de madera en casillas de un tablero), sino por la visión a largo plazo. Al comienzo de la partida se van a configurar siete cartas en el centro de la mesa que van a determinar cómo funcionan los distintos edificios. Antes de escoger nuestro primer recurso, ya tendríamos que haber proyectado en nuestra cabeza qué ciudad queremos para intentar maximizar la ganancia de puntos en función de dichos edificios. Esto es, apostar por una estrategia e intentar llevarla a cabo.
+Aquí se podría haber caído en el tema de las estrategias coincidentes, esto es, que los jugadores decidan hacer lo mismo, algo muy típico en la mayoría de juegos Roll&Write o el famoso NMBR9 (aquí su tochorreseña). Afortunadamente, el señor McPherson ha pensado en todo y, al comienzo de la partida, cada jugador recibe un par de cartas para construir un edificio con un efecto exclusivo para su ciudad y, por supuesto, con un patrón distinto.
+Lo normal será intentar construir lo antes posible dicho monumento para poder disfrutar de su beneficio. Al mantenerse oculta hasta el momento de revelarla, los jugadores no pueden prever qué será lo siguiente que pedirán, consiguiendo introducir un punto de caos que desnivela la partida y evita, con casi toda seguridad, que los jugadores conformen ciudades iguales.
+Siendo consciente el autor de que tal vez puede haber apretado demasiado las tuercas a los jugadores a la hora de plantear este reto, se incluyen un par de variantes que modifican de forma significativa el juego, permitiendo disfrutarlo al gusto. Por un lado, tenemos la regla de la caverna que, en esencia, nos permitirá descartar dos recursos escogidos por los rivales a lo largo de la partida.
+Por otro, tenemos la variante del alcalde, que le añade un punto de aleatoriedad (inexistente hasta el momento) y resta peso a las decisiones de los jugadores al ir revelándose cartas con los recursos que todos los jugadores deben colocar (permitiendo a cada jugador escoger un recurso a su elección cada dos cartas reveladas), acercándose aún más a cómo funciona NMBR9.
+Maestro Constructor
+Además de los aspectos mecánicos, el punto fuerte de Tiny Towns es la rejugabilidad gracias al mazo de 40 cartas de edificios. Las diversas combinaciones aseguran partidas distintas, suponiendo un nuevo reto cada configuración a la hora de buscar la solución optima.
+La escalabilidad puede ser uno de los aspectos peliagudos del diseño. De entrada, por la diferencia de tiempos de entre jugar a 2 y jugar a 6. Con el máximo de participantes vamos a disfrutar de menos turnos, pudiendo escoger 1 de cada 6 recursos que colocaremos en nuestro tablero, mientras que a dos jugadores escogeremos 1 de cada 2. Es un juego en el que los ataques de parálisis por análisis están a la orden del día, elevándose las probabilidades de extender en demasía la experiencia a medida que incluimos más participantes en la partida.
+A esto le sumamos un detalle mecánico que parece estar poniéndose de moda consistente en que cuando un jugador finaliza su partida, se queda mirando hasta que el resto haga lo propio. No es nada descabellado pensar en una partida en la que un jugador novato comete varios errores y acaba bloqueado relativamente pronto, teniendo que esperar a que los demás jueguen durante un buen rato. Lo normal es que no haya mucha diferencia en cuanto al número de recursos que coloca cada jugador, pero no me termina de convencer este sistema.
+Considero que jugarlo por encima de cuatro jugadores puede resultar demasiado caótico, y seguramente sea más interesante jugarlo con la variante del alcalde, dejando que sea el mazo que decida. Será más aleatorio, pero también menos caótico.
+Afortunadamente, no estamos ante un diseño tipo Everdell (aquí su tochorreseña), donde el desarrollo de la partida supera ampliamente la hora de duración, mientras que en Tiny Towns estaremos bordeando la media hora, así que tampoco llegar a ser algo crítico. Pero no deja de ser molesto esta especie de eliminación de jugadores encubierta.
+Detalle Ciudad
+Pasemos a la edición, encontrándonos un nivel de producción más que decente. Empecemos por los elementos de madera, numerosos, de buena densidad y con cortes originales, especialmente los edificios. Luego tenemos unas cartas con buen gramaje, textura en lino y con un acabado brillante muy agradable, además de una respuesta elástica magnifica. Las cartas de edificio yo no las enfundaría porque no se barajan apenas y no se tienen en mano, mientras que las cartas para la variante del alcalde sí que las enfundaría porque se barajan continuamente. Finalmente, los tableros de cartón son de buen grosor. El reglamento está adecuadamente bien estructurado y no deja lugar a dudas.
+En cuanto a las ilustraciones, el trabajo de Paquette es muy llamativo con unas cartas muy luminosas y alegres, mostrando estampas preciosas, más que la portada, que, no estando mal, llama un poco menos la atención. Desgraciadamente, estos elementos son los que menos llaman la atención del juego, virando el foco hacia la cuadricula y las piezas de madera, donde hay poco que rascar. Tal vez habría venido bien añadir algún detalle a las casillas del tablero para darle algo más de sustancia.
+Y vamos cerrando. Tiny Towns es un peso medio ligero con mecánica principal de construcción de patrones en el que tendremos que conformar una ciudad en una pequeña cuadricula. El método de selección de los recursos es interesante y tiene un punto de interacción y profundidad superior dentro de este tipo de juegos, además de presumir de una importante variabilidad que asegura la vida del juego. En contra, una escalabilidad no del todo fina, variando demasiado las sensaciones en función del número de participantes, unido un mecanismo de final de partida poco satisfactorio en el que un jugador puede quedarse mirando varios turnos. Afortunadamente, las partidas no se alargan y resultan bastante emocionantes. Por todo esto le doy un…
+Me gusta esto:Me gusta Cargando...
